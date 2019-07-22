@@ -9,11 +9,11 @@
 
 // Main modes (Lite, Advanced and Rider).
 //#define __advanced__  // Enable advanced configuration.
-//#define __rider__     // Activate rider strategy.
+#define __rider__     // Activate rider strategy.
 
 // Other modes.
 //#define __backtest__     // For backtest only.
-//#define __optimize__     // For optimization only.
+#define __optimize__     // For optimization only.
 //#define __profiler__     // Activate profiler.
 //#define __limited__      // Define safe options.
 //#define __release__      // Enable release settings.
